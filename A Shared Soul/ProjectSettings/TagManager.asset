@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cutscene
+  - P1
+  - P2
+  - Object
+  - Moving
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Ground_Day
+  - Ground_Night
+  - Player_Day
+  - Player_Night
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 825845367
+    locked: 0
+  - name: Ground
+    uniqueID: 126315491
+    locked: 0
+  - name: Detail
+    uniqueID: 2769785533
+    locked: 0
+  - name: Object
+    uniqueID: 3155151909
+    locked: 0
+  - name: Enemy
+    uniqueID: 2887922889
+    locked: 0
+  - name: Player
+    uniqueID: 2600367241
+    locked: 0
